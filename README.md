@@ -1,4 +1,4 @@
-This JavaScript code implements a simple quiz application. Here's a summary of its functionality:
+This JavaScript code exercise implements a simple quiz application. Here's a summary of its functionality:
 
     Initialization:
       It initializes variables such as score, currentQuestionIndex, and questions. Each question in the questions array contains a question statement, an array of possible answers, and the index of the correct answer.
